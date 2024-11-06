@@ -13,7 +13,7 @@
         src="https://img.icons8.com/?size=100&id=SkbzwdwhI2sy&format=png&color=000000"
         alt=""
       />
-      In love with the world of technology.
+      Love for Learning
     </h2>
     <div align="center">
       <img
