@@ -6,15 +6,7 @@
         alt=""
       />
     </h1>
-    <h2 align="center">
-      <img
-        align="center"
-        style="width: 25px"
-        src="https://img.icons8.com/?size=100&id=SkbzwdwhI2sy&format=png&color=000000"
-        alt=""
-      />
-      Love for Learning
-    </h2>
+    <br/>
     <div align="center">
       <img
         src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"
@@ -24,7 +16,7 @@
     <br />
     <br />
     <div>
-      <p>👨‍💻About Me :</p>
+      <h2>👨‍💻About Me :</h2>
       <p>
         I am a Frontend Developer
         <img
@@ -35,29 +27,29 @@
       </p>
       <ul>
         <li>
-          "Dedicated front-end developer with a passion for creating visually
-          engaging and user-friendly interfaces."
+          Dedicated front-end developer with a passion for creating visually
+          engaging and user-friendly interfaces.
         </li>
         <li>
-          "Experienced in building responsive, accessible, and
+          Experienced in building responsive, accessible, and
           performance-optimized websites that deliver exceptional user
-          experiences across all devices."
+          experiences across all devices.
         </li>
         <li>
-          "Skilled in leveraging modern front-end frameworks and libraries,
-          including React and TypeScript, to bring innovative designs to life."
+          Skilled in leveraging modern front-end frameworks and libraries,
+          including React and TypeScript, to bring innovative designs to life.
         </li>
         <li>
-          "Collaborative team player who thrives in dynamic environments and
-          enjoys tackling complex challenges."
+          Collaborative team player who thrives in dynamic environments and
+          enjoys tackling complex challenges.
         </li>
         <li>
-          "Detail-oriented with a commitment to writing clean, efficient, and
-          scalable code, ensuring seamless user interactions."
+          Detail-oriented with a commitment to writing clean, efficient, and
+          scalable code, ensuring seamless user interactions.
         </li>
         <li>
-          "Keen on continuous learning and staying updated with the latest
-          front-end technologies and best practices."
+          Keen on continuous learning and staying updated with the latest
+          front-end technologies and best practices.
         </li>
       </ul>
     </div>
@@ -67,7 +59,10 @@
     <div align="center">
       <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite,figma,github,vscode" alt="">
     </div>
-    <div>
-        <h3>github status</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=bagheri-dev&show_icons=true&theme=radical" alt="">
-    </div>
+          <br/>
+          <br/>
+    <p align="center">"Strive not to be a success, but rather to be of value."
+          <br/>
+— Albert Einstein
+
+</p>
