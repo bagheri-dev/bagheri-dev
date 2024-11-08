@@ -57,7 +57,7 @@
       <h2>🛠️ Languages and Tools :</h2>
     <br />
     <div align="center">
-      <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite,figma,github,vscode" alt="">
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite" alt="">
     </div>
           <br/>
           <h3>📞Countact me :</h3>
