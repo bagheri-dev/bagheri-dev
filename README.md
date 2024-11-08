@@ -54,11 +54,13 @@
       </ul>
     </div>
     <br />
-    <br />
       <h2>🛠️ Languages and Tools :</h2>
+    <br />
     <div align="center">
       <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite,figma,github,vscode" alt="">
     </div>
+          <br/>
+          <h3>📞Countact me :</h3>
           <br/>
           <br/>
     <p align="center">"Strive not to be a success, but rather to be of value."
